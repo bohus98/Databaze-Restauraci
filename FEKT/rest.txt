@@ -1,0 +1,6 @@
+6;AdamStefka;smrdi;10
+2;UMarecka;Fajnovo;5
+1;Matus;Bohucky;10
+5;Stefka;Adam;3
+3;Stefka;Adam;2
+4;Stefka;Adam;2

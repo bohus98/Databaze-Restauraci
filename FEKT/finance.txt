@@ -1,0 +1,8 @@
+1;800;vklad;Dan
+2;-666;platba;Dan
+3;666;vklad;Jan
+4;-66;platba;Jan
+5;800;vklad;Jan
+6;-666;platba;Dan
+7;666;vklad;Jan
+8;-66;platba;Dan

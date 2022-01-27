@@ -1,0 +1,5 @@
+﻿  FEKT.cpp
+C:\Users\matus\OneDrive\Počítač\Projekt_Fekt\FEKT\FEKT.cpp(153,12): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\matus\OneDrive\Počítač\Projekt_Fekt\FEKT\FEKT.cpp(157,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\matus\OneDrive\Počítač\Projekt_Fekt\FEKT\FEKT.cpp(137,9): warning C4102: 'noclear': unreferenced label
+  FEKT.vcxproj -> C:\Users\matus\OneDrive\Počítač\Projekt_Fekt\Debug\FEKT.exe
